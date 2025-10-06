@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "vitepress-template",
+  title: "文档 - swtmax",
   description: "A starter template for VitePress",
   srcDir: 'pages',
   outDir: 'dist',
