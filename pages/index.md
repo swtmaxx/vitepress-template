@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "MC文档"
+  name: "MC启动教程"
   text: "MC启动！！！"
   actions:
     - theme: brand
-      text: Let's Begin
+      text: 快速开始
       link: /quick-start/quick-start
     - theme: alt
       text: 返回下载站
