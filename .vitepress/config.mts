@@ -17,9 +17,6 @@ export default defineConfig({
       { text: '快速开始', link: '/快速开始' },
       { text: '进入服务器', link: '/进入服务器' }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/TencentEdgeOne/pages-templates/tree/main/examples/vitepress-template' }
-    ]
+    prev: 'Get Started | Markdown'
   }
 })
