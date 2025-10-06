@@ -1,8 +1,0 @@
-# MC食用教程
-下载好后双击打开，点击 Extract，等待解压完成  
-![1](https://pic.swtmax.top/file/docs/1757838072790_image.png)  
-解压完成后打开文件夹，运行 PCL2 启动器  
-![1](https://pic.swtmax.top/file/docs/1757838144838_image.png)  
-打开后填写用户名，点击启动游戏  
-![1](https://pic.swtmax.top/file/docs/1757838175699_image.png)  
-![1](https://pic.swtmax.top/file/docs/1757838196973_image.png)  
