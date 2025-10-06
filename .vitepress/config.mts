@@ -15,8 +15,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Quick Start', link: '/quick-start/quick-start' },
-      { text: 'Examples', link: '/examples/markdown-examples' }
+      { text: 'Quick Start', link: '/quick-start/quick-start' }
     ],
 
     sidebar: [
