@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /quick-start/quick-start
+      link: /启动教程
     - theme: alt
       text: 返回下载站
       link: https://201116.xyz
