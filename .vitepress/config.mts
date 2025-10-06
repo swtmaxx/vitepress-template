@@ -14,7 +14,7 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
-      { text: '快速开始', link: '/快速开始' }
+      { text: '快速开始', link: '/快速开始' },
       { text: '进入服务器', link: '/进入服务器' }
     ],
 
