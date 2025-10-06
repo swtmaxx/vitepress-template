@@ -14,7 +14,7 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
-      { text: '快速开始', link: '/quick-start/quick-start' }
+      { text: '快速开始', link: '/启动教程' }
     ],
 
     socialLinks: [
