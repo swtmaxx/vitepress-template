@@ -9,5 +9,8 @@ hero:
     - theme: brand
       text: Let's Begin
       link: /quick-start/quick-start
+    - theme: alt
+      text: 返回下载站
+      link: https://201116.xyz
 ---
 
