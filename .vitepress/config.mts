@@ -13,9 +13,7 @@ export default defineConfig({
       level: [1, 3],    // 显示 h1 到 h3 级别的标题
     },
     nav: [
-      { text: '主页', link: '/' },
-      { text: '快速开始', link: '/快速开始' },
-      { text: '进入服务器', link: '/进入服务器' }
+      { text: '主页', link: '/' }
     ],
   }
 })
