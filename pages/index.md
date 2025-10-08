@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "MC启动教程"
-  text: "MC启动！！！"
   actions:
     - theme: brand
       text: 快速启动
