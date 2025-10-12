@@ -1,17 +1,22 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "文档 - swtmax",
   srcDir: 'pages',
   outDir: 'dist',
   ignoreDeadLinks: true,
   cleanUrls: true,
+  head: [
+    [
+      'script',
+      {
+        defer: '',
+        src: 'https://umami.swtmax.top/script.js',
+        'data-website-id': '0c712547-e299-4871-95d1-f1d2ae7e4bdc'
+      }
+    ]
+  ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    outline: {
-      level: [1, 3],    // 显示 h1 到 h3 级别的标题
-    },
     nav: [
       { text: '主页', link: '/' }
     ],
